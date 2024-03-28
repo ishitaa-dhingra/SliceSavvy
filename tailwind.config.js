@@ -14,6 +14,9 @@ export default {
       height: {
         screen: '100dvh',
       },
+      backgroundImage: {
+        pizza: "url('../public/bg.png')",
+      },
     },
   },
   plugins: [],
